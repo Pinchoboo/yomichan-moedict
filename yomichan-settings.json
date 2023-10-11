@@ -307,7 +307,1453 @@
 						"textReplacements": {
 							"searchOriginal": true,
 							"groups": [
-								[{"pattern":"ı","ignoreCase":true,"replacement":"i"},{"pattern":"ⁿ","ignoreCase":true,"replacement":"nn"},{"pattern":"͘","ignoreCase":true,"replacement":"o"},{"pattern":"M","ignoreCase":true,"replacement":"m"},{"pattern":"N","ignoreCase":true,"replacement":"n"},{"pattern":"P","ignoreCase":true,"replacement":"p"},{"pattern":"B","ignoreCase":true,"replacement":"b"},{"pattern":"T","ignoreCase":true,"replacement":"t"},{"pattern":"K","ignoreCase":true,"replacement":"k"},{"pattern":"G","ignoreCase":true,"replacement":"g"},{"pattern":"H","ignoreCase":true,"replacement":"h"},{"pattern":"J","ignoreCase":true,"replacement":"j"},{"pattern":"S","ignoreCase":true,"replacement":"s"},{"pattern":"L","ignoreCase":true,"replacement":"l"},{"pattern":"C","ignoreCase":true,"replacement":"c"},{"pattern":"A","ignoreCase":true,"replacement":"a"},{"pattern":"E","ignoreCase":true,"replacement":"e"},{"pattern":"I","ignoreCase":true,"replacement":"i"},{"pattern":"O","ignoreCase":true,"replacement":"o"},{"pattern":"U","ignoreCase":true,"replacement":"u"},{"pattern":"Á","ignoreCase":true,"replacement":"á"},{"pattern":"É","ignoreCase":true,"replacement":"é"},{"pattern":"Í","ignoreCase":true,"replacement":"í"},{"pattern":"Ó","ignoreCase":true,"replacement":"ó"},{"pattern":"Ú","ignoreCase":true,"replacement":"ú"},{"pattern":"Ḿ","ignoreCase":true,"replacement":"ḿ"},{"pattern":"Ń","ignoreCase":true,"replacement":"ń"},{"pattern":"À","ignoreCase":true,"replacement":"à"},{"pattern":"È","ignoreCase":true,"replacement":"è"},{"pattern":"Ì","ignoreCase":true,"replacement":"ì"},{"pattern":"Ò","ignoreCase":true,"replacement":"ò"},{"pattern":"Ù","ignoreCase":true,"replacement":"ù"},{"pattern":"Ǹ","ignoreCase":true,"replacement":"ǹ"},{"pattern":"Â","ignoreCase":true,"replacement":"â"},{"pattern":"Ê","ignoreCase":true,"replacement":"ê"},{"pattern":"Î","ignoreCase":true,"replacement":"î"},{"pattern":"Ô","ignoreCase":true,"replacement":"ô"},{"pattern":"Û","ignoreCase":true,"replacement":"û"},{"pattern":"Ā","ignoreCase":true,"replacement":"ā"},{"pattern":"Ē","ignoreCase":true,"replacement":"ē"},{"pattern":"Ī","ignoreCase":true,"replacement":"ī"},{"pattern":"Ō","ignoreCase":true,"replacement":"ō"},{"pattern":"Ū","ignoreCase":true,"replacement":"ū"},{"pattern":"á","ignoreCase":true,"replacement":"a2"},{"pattern":"à","ignoreCase":true,"replacement":"a3"},{"pattern":"â","ignoreCase":true,"replacement":"a5"},{"pattern":"ā","ignoreCase":true,"replacement":"a7"},{"pattern":"é","ignoreCase":true,"replacement":"e2"},{"pattern":"è","ignoreCase":true,"replacement":"e3"},{"pattern":"ê","ignoreCase":true,"replacement":"e5"},{"pattern":"ē","ignoreCase":true,"replacement":"e7"},{"pattern":"ó","ignoreCase":true,"replacement":"o2"},{"pattern":"ò","ignoreCase":true,"replacement":"o3"},{"pattern":"ô","ignoreCase":true,"replacement":"o5"},{"pattern":"ō","ignoreCase":true,"replacement":"o7"},{"pattern":"í","ignoreCase":true,"replacement":"i2"},{"pattern":"ì","ignoreCase":true,"replacement":"i3"},{"pattern":"î","ignoreCase":true,"replacement":"i5"},{"pattern":"ī","ignoreCase":true,"replacement":"i7"},{"pattern":"ú","ignoreCase":true,"replacement":"u2"},{"pattern":"ù","ignoreCase":true,"replacement":"u3"},{"pattern":"û","ignoreCase":true,"replacement":"u5"},{"pattern":"ū","ignoreCase":true,"replacement":"u7"},{"pattern":"́","ignoreCase":true,"replacement":"2"},{"pattern":"̀","ignoreCase":true,"replacement":"3"},{"pattern":"̂","ignoreCase":true,"replacement":"5"},{"pattern":"̄","ignoreCase":true,"replacement":"7"},{"pattern":"̍","ignoreCase":true,"replacement":"8"},{"pattern":"p8","ignoreCase":true,"replacement":"8p"},{"pattern":"t8","ignoreCase":true,"replacement":"8t"},{"pattern":"k8","ignoreCase":true,"replacement":"8k"},{"pattern":"h8","ignoreCase":true,"replacement":"8h"},{"pattern":"am2","ignoreCase":true,"replacement":"a2m"},{"pattern":"am3","ignoreCase":true,"replacement":"a3m"},{"pattern":"am5","ignoreCase":true,"replacement":"a5m"},{"pattern":"am7","ignoreCase":true,"replacement":"a7m"},{"pattern":"am8","ignoreCase":true,"replacement":"a8m"},{"pattern":"em2","ignoreCase":true,"replacement":"e2m"},{"pattern":"em3","ignoreCase":true,"replacement":"e3m"},{"pattern":"em5","ignoreCase":true,"replacement":"e5m"},{"pattern":"em7","ignoreCase":true,"replacement":"e7m"},{"pattern":"em8","ignoreCase":true,"replacement":"e8m"},{"pattern":"im2","ignoreCase":true,"replacement":"i2m"},{"pattern":"im3","ignoreCase":true,"replacement":"i3m"},{"pattern":"im5","ignoreCase":true,"replacement":"i5m"},{"pattern":"im7","ignoreCase":true,"replacement":"i7m"},{"pattern":"im8","ignoreCase":true,"replacement":"i8m"},{"pattern":"om2","ignoreCase":true,"replacement":"o2m"},{"pattern":"om3","ignoreCase":true,"replacement":"o3m"},{"pattern":"om5","ignoreCase":true,"replacement":"o5m"},{"pattern":"om7","ignoreCase":true,"replacement":"o7m"},{"pattern":"om8","ignoreCase":true,"replacement":"o8m"},{"pattern":"um2","ignoreCase":true,"replacement":"u2m"},{"pattern":"um3","ignoreCase":true,"replacement":"u3m"},{"pattern":"um5","ignoreCase":true,"replacement":"u5m"},{"pattern":"um7","ignoreCase":true,"replacement":"u7m"},{"pattern":"um8","ignoreCase":true,"replacement":"u8m"},{"pattern":"an2","ignoreCase":true,"replacement":"a2n"},{"pattern":"an3","ignoreCase":true,"replacement":"a3n"},{"pattern":"an5","ignoreCase":true,"replacement":"a5n"},{"pattern":"an7","ignoreCase":true,"replacement":"a7n"},{"pattern":"an8","ignoreCase":true,"replacement":"a8n"},{"pattern":"en2","ignoreCase":true,"replacement":"e2n"},{"pattern":"en3","ignoreCase":true,"replacement":"e3n"},{"pattern":"en5","ignoreCase":true,"replacement":"e5n"},{"pattern":"en7","ignoreCase":true,"replacement":"e7n"},{"pattern":"en8","ignoreCase":true,"replacement":"e8n"},{"pattern":"in2","ignoreCase":true,"replacement":"i2n"},{"pattern":"in3","ignoreCase":true,"replacement":"i3n"},{"pattern":"in5","ignoreCase":true,"replacement":"i5n"},{"pattern":"in7","ignoreCase":true,"replacement":"i7n"},{"pattern":"in8","ignoreCase":true,"replacement":"i8n"},{"pattern":"on2","ignoreCase":true,"replacement":"o2n"},{"pattern":"on3","ignoreCase":true,"replacement":"o3n"},{"pattern":"on5","ignoreCase":true,"replacement":"o5n"},{"pattern":"on7","ignoreCase":true,"replacement":"o7n"},{"pattern":"on8","ignoreCase":true,"replacement":"o8n"},{"pattern":"un2","ignoreCase":true,"replacement":"u2n"},{"pattern":"un3","ignoreCase":true,"replacement":"u3n"},{"pattern":"un5","ignoreCase":true,"replacement":"u5n"},{"pattern":"un7","ignoreCase":true,"replacement":"u7n"},{"pattern":"un8","ignoreCase":true,"replacement":"u8n"},{"pattern":"ann2","ignoreCase":true,"replacement":"a2nn"},{"pattern":"ann3","ignoreCase":true,"replacement":"a3nn"},{"pattern":"ann5","ignoreCase":true,"replacement":"a5nn"},{"pattern":"ann7","ignoreCase":true,"replacement":"a7nn"},{"pattern":"ann8","ignoreCase":true,"replacement":"a8nn"},{"pattern":"enn2","ignoreCase":true,"replacement":"e2nn"},{"pattern":"enn3","ignoreCase":true,"replacement":"e3nn"},{"pattern":"enn5","ignoreCase":true,"replacement":"e5nn"},{"pattern":"enn7","ignoreCase":true,"replacement":"e7nn"},{"pattern":"enn8","ignoreCase":true,"replacement":"e8nn"},{"pattern":"inn2","ignoreCase":true,"replacement":"i2nn"},{"pattern":"inn3","ignoreCase":true,"replacement":"i3nn"},{"pattern":"inn5","ignoreCase":true,"replacement":"i5nn"},{"pattern":"inn7","ignoreCase":true,"replacement":"i7nn"},{"pattern":"inn8","ignoreCase":true,"replacement":"i8nn"},{"pattern":"onn2","ignoreCase":true,"replacement":"o2nn"},{"pattern":"onn3","ignoreCase":true,"replacement":"o3nn"},{"pattern":"onn5","ignoreCase":true,"replacement":"o5nn"},{"pattern":"onn7","ignoreCase":true,"replacement":"o7nn"},{"pattern":"onn8","ignoreCase":true,"replacement":"o8nn"},{"pattern":"unn2","ignoreCase":true,"replacement":"u2nn"},{"pattern":"unn3","ignoreCase":true,"replacement":"u3nn"},{"pattern":"unn5","ignoreCase":true,"replacement":"u5nn"},{"pattern":"unn7","ignoreCase":true,"replacement":"u7nn"},{"pattern":"unn8","ignoreCase":true,"replacement":"u8nn"},{"pattern":"ang2","ignoreCase":true,"replacement":"a2ng"},{"pattern":"ang3","ignoreCase":true,"replacement":"a3ng"},{"pattern":"ang5","ignoreCase":true,"replacement":"a5ng"},{"pattern":"ang7","ignoreCase":true,"replacement":"a7ng"},{"pattern":"ang8","ignoreCase":true,"replacement":"a8ng"},{"pattern":"eng2","ignoreCase":true,"replacement":"e2ng"},{"pattern":"eng3","ignoreCase":true,"replacement":"e3ng"},{"pattern":"eng5","ignoreCase":true,"replacement":"e5ng"},{"pattern":"eng7","ignoreCase":true,"replacement":"e7ng"},{"pattern":"eng8","ignoreCase":true,"replacement":"e8ng"},{"pattern":"ing2","ignoreCase":true,"replacement":"i2ng"},{"pattern":"ing3","ignoreCase":true,"replacement":"i3ng"},{"pattern":"ing5","ignoreCase":true,"replacement":"i5ng"},{"pattern":"ing7","ignoreCase":true,"replacement":"i7ng"},{"pattern":"ing8","ignoreCase":true,"replacement":"i8ng"},{"pattern":"ong2","ignoreCase":true,"replacement":"o2ng"},{"pattern":"ong3","ignoreCase":true,"replacement":"o3ng"},{"pattern":"ong5","ignoreCase":true,"replacement":"o5ng"},{"pattern":"ong7","ignoreCase":true,"replacement":"o7ng"},{"pattern":"ong8","ignoreCase":true,"replacement":"o8ng"},{"pattern":"ung2","ignoreCase":true,"replacement":"u2ng"},{"pattern":"ung3","ignoreCase":true,"replacement":"u3ng"},{"pattern":"ung5","ignoreCase":true,"replacement":"u5ng"},{"pattern":"ung7","ignoreCase":true,"replacement":"u7ng"},{"pattern":"ung8","ignoreCase":true,"replacement":"u8ng"},{"pattern":"ch","ignoreCase":true,"replacement":"ts"},{"pattern":"oa","ignoreCase":true,"replacement":"ua"},{"pattern":"oe","ignoreCase":true,"replacement":"ue"},{"pattern":"ek","ignoreCase":true,"replacement":"ik"},{"pattern":"eng","ignoreCase":true,"replacement":"ing"},{"pattern":"o2a","ignoreCase":true,"replacement":"ua2"},{"pattern":"o2e","ignoreCase":true,"replacement":"ue2"},{"pattern":"u2i","ignoreCase":true,"replacement":"ui2"},{"pattern":"e2k","ignoreCase":true,"replacement":"i2k"},{"pattern":"e2ng","ignoreCase":true,"replacement":"i2ng"},{"pattern":"o3a","ignoreCase":true,"replacement":"ua3"},{"pattern":"o3e","ignoreCase":true,"replacement":"ue3"},{"pattern":"u3i","ignoreCase":true,"replacement":"ui3"},{"pattern":"e3k","ignoreCase":true,"replacement":"i3k"},{"pattern":"e3ng","ignoreCase":true,"replacement":"i3ng"},{"pattern":"o5a","ignoreCase":true,"replacement":"ua5"},{"pattern":"o5e","ignoreCase":true,"replacement":"ue5"},{"pattern":"u5i","ignoreCase":true,"replacement":"ui5"},{"pattern":"e5k","ignoreCase":true,"replacement":"i5k"},{"pattern":"e5ng","ignoreCase":true,"replacement":"i5ng"},{"pattern":"o7a","ignoreCase":true,"replacement":"ua7"},{"pattern":"o7e","ignoreCase":true,"replacement":"ue7"},{"pattern":"u7i","ignoreCase":true,"replacement":"ui7"},{"pattern":"e7k","ignoreCase":true,"replacement":"i7k"},{"pattern":"e7ng","ignoreCase":true,"replacement":"i7ng"},{"pattern":"o8a","ignoreCase":true,"replacement":"ua8"},{"pattern":"o8e","ignoreCase":true,"replacement":"ue8"},{"pattern":"u8i","ignoreCase":true,"replacement":"ui8"},{"pattern":"e8k","ignoreCase":true,"replacement":"i8k"},{"pattern":"e8ng","ignoreCase":true,"replacement":"i8ng"},{"pattern":"ai2","ignoreCase":true,"replacement":"a2i"},{"pattern":"au2","ignoreCase":true,"replacement":"a2u"},{"pattern":"ng2","ignoreCase":true,"replacement":"n2g"},{"pattern":"oo2","ignoreCase":true,"replacement":"o2o"},{"pattern":"ai3","ignoreCase":true,"replacement":"a3i"},{"pattern":"au3","ignoreCase":true,"replacement":"a3u"},{"pattern":"ng3","ignoreCase":true,"replacement":"n3g"},{"pattern":"oo3","ignoreCase":true,"replacement":"o3o"},{"pattern":"ai5","ignoreCase":true,"replacement":"a5i"},{"pattern":"au5","ignoreCase":true,"replacement":"a5u"},{"pattern":"ng5","ignoreCase":true,"replacement":"n5g"},{"pattern":"oo5","ignoreCase":true,"replacement":"o5o"},{"pattern":"ai7","ignoreCase":true,"replacement":"a7i"},{"pattern":"au7","ignoreCase":true,"replacement":"a7u"},{"pattern":"ng7","ignoreCase":true,"replacement":"n7g"},{"pattern":"oo7","ignoreCase":true,"replacement":"o7o"},{"pattern":"ai8","ignoreCase":true,"replacement":"a8i"},{"pattern":"au8","ignoreCase":true,"replacement":"a8u"},{"pattern":"ng8","ignoreCase":true,"replacement":"n8g"},{"pattern":"oo8","ignoreCase":true,"replacement":"o8o"},{"pattern":"a2","ignoreCase":true,"replacement":"á"},{"pattern":"e2","ignoreCase":true,"replacement":"é"},{"pattern":"i2","ignoreCase":true,"replacement":"í"},{"pattern":"o2","ignoreCase":true,"replacement":"ó"},{"pattern":"u2","ignoreCase":true,"replacement":"ú"},{"pattern":"m2","ignoreCase":true,"replacement":"ḿ"},{"pattern":"n2","ignoreCase":true,"replacement":"ń"},{"pattern":"a3","ignoreCase":true,"replacement":"à"},{"pattern":"e3","ignoreCase":true,"replacement":"è"},{"pattern":"i3","ignoreCase":true,"replacement":"ì"},{"pattern":"o3","ignoreCase":true,"replacement":"ò"},{"pattern":"u3","ignoreCase":true,"replacement":"ù"},{"pattern":"n3","ignoreCase":true,"replacement":"ǹ"},{"pattern":"a5","ignoreCase":true,"replacement":"â"},{"pattern":"e5","ignoreCase":true,"replacement":"ê"},{"pattern":"i5","ignoreCase":true,"replacement":"î"},{"pattern":"o5","ignoreCase":true,"replacement":"ô"},{"pattern":"u5","ignoreCase":true,"replacement":"û"},{"pattern":"a7","ignoreCase":true,"replacement":"ā"},{"pattern":"e7","ignoreCase":true,"replacement":"ē"},{"pattern":"i7","ignoreCase":true,"replacement":"ī"},{"pattern":"o7","ignoreCase":true,"replacement":"ō"},{"pattern":"u7","ignoreCase":true,"replacement":"ū"},{"pattern":"1","ignoreCase":true,"replacement":""},{"pattern":"2","ignoreCase":true,"replacement":"́"},{"pattern":"3","ignoreCase":true,"replacement":"̀"},{"pattern":"4","ignoreCase":true,"replacement":""},{"pattern":"5","ignoreCase":true,"replacement":"̂"},{"pattern":"7","ignoreCase":true,"replacement":"̄"},{"pattern":"8","ignoreCase":true,"replacement":"̍"}]
+								[
+									{
+										"pattern": "ı",
+										"ignoreCase": true,
+										"replacement": "i"
+									},
+									{
+										"pattern": "ⁿ",
+										"ignoreCase": true,
+										"replacement": "nn"
+									},
+									{
+										"pattern": "͘",
+										"ignoreCase": true,
+										"replacement": "o"
+									},
+									{
+										"pattern": "M",
+										"ignoreCase": true,
+										"replacement": "m"
+									},
+									{
+										"pattern": "N",
+										"ignoreCase": true,
+										"replacement": "n"
+									},
+									{
+										"pattern": "P",
+										"ignoreCase": true,
+										"replacement": "p"
+									},
+									{
+										"pattern": "B",
+										"ignoreCase": true,
+										"replacement": "b"
+									},
+									{
+										"pattern": "T",
+										"ignoreCase": true,
+										"replacement": "t"
+									},
+									{
+										"pattern": "K",
+										"ignoreCase": true,
+										"replacement": "k"
+									},
+									{
+										"pattern": "G",
+										"ignoreCase": true,
+										"replacement": "g"
+									},
+									{
+										"pattern": "H",
+										"ignoreCase": true,
+										"replacement": "h"
+									},
+									{
+										"pattern": "J",
+										"ignoreCase": true,
+										"replacement": "j"
+									},
+									{
+										"pattern": "S",
+										"ignoreCase": true,
+										"replacement": "s"
+									},
+									{
+										"pattern": "L",
+										"ignoreCase": true,
+										"replacement": "l"
+									},
+									{
+										"pattern": "C",
+										"ignoreCase": true,
+										"replacement": "c"
+									},
+									{
+										"pattern": "A",
+										"ignoreCase": true,
+										"replacement": "a"
+									},
+									{
+										"pattern": "E",
+										"ignoreCase": true,
+										"replacement": "e"
+									},
+									{
+										"pattern": "I",
+										"ignoreCase": true,
+										"replacement": "i"
+									},
+									{
+										"pattern": "O",
+										"ignoreCase": true,
+										"replacement": "o"
+									},
+									{
+										"pattern": "U",
+										"ignoreCase": true,
+										"replacement": "u"
+									},
+									{
+										"pattern": "Á",
+										"ignoreCase": true,
+										"replacement": "á"
+									},
+									{
+										"pattern": "É",
+										"ignoreCase": true,
+										"replacement": "é"
+									},
+									{
+										"pattern": "Í",
+										"ignoreCase": true,
+										"replacement": "í"
+									},
+									{
+										"pattern": "Ó",
+										"ignoreCase": true,
+										"replacement": "ó"
+									},
+									{
+										"pattern": "Ú",
+										"ignoreCase": true,
+										"replacement": "ú"
+									},
+									{
+										"pattern": "Ḿ",
+										"ignoreCase": true,
+										"replacement": "ḿ"
+									},
+									{
+										"pattern": "Ń",
+										"ignoreCase": true,
+										"replacement": "ń"
+									},
+									{
+										"pattern": "À",
+										"ignoreCase": true,
+										"replacement": "à"
+									},
+									{
+										"pattern": "È",
+										"ignoreCase": true,
+										"replacement": "è"
+									},
+									{
+										"pattern": "Ì",
+										"ignoreCase": true,
+										"replacement": "ì"
+									},
+									{
+										"pattern": "Ò",
+										"ignoreCase": true,
+										"replacement": "ò"
+									},
+									{
+										"pattern": "Ù",
+										"ignoreCase": true,
+										"replacement": "ù"
+									},
+									{
+										"pattern": "Ǹ",
+										"ignoreCase": true,
+										"replacement": "ǹ"
+									},
+									{
+										"pattern": "Â",
+										"ignoreCase": true,
+										"replacement": "â"
+									},
+									{
+										"pattern": "Ê",
+										"ignoreCase": true,
+										"replacement": "ê"
+									},
+									{
+										"pattern": "Î",
+										"ignoreCase": true,
+										"replacement": "î"
+									},
+									{
+										"pattern": "Ô",
+										"ignoreCase": true,
+										"replacement": "ô"
+									},
+									{
+										"pattern": "Û",
+										"ignoreCase": true,
+										"replacement": "û"
+									},
+									{
+										"pattern": "Ā",
+										"ignoreCase": true,
+										"replacement": "ā"
+									},
+									{
+										"pattern": "Ē",
+										"ignoreCase": true,
+										"replacement": "ē"
+									},
+									{
+										"pattern": "Ī",
+										"ignoreCase": true,
+										"replacement": "ī"
+									},
+									{
+										"pattern": "Ō",
+										"ignoreCase": true,
+										"replacement": "ō"
+									},
+									{
+										"pattern": "Ū",
+										"ignoreCase": true,
+										"replacement": "ū"
+									},
+									{
+										"pattern": "Ő",
+										"ignoreCase": true,
+										"replacement": "ő"
+									},
+									{
+										"pattern": "Ű",
+										"ignoreCase": true,
+										"replacement": "ű"
+									},
+									{
+										"pattern": "á",
+										"ignoreCase": true,
+										"replacement": "a2"
+									},
+									{
+										"pattern": "à",
+										"ignoreCase": true,
+										"replacement": "a3"
+									},
+									{
+										"pattern": "â",
+										"ignoreCase": true,
+										"replacement": "a5"
+									},
+									{
+										"pattern": "ā",
+										"ignoreCase": true,
+										"replacement": "a7"
+									},
+									{
+										"pattern": "é",
+										"ignoreCase": true,
+										"replacement": "e2"
+									},
+									{
+										"pattern": "è",
+										"ignoreCase": true,
+										"replacement": "e3"
+									},
+									{
+										"pattern": "ê",
+										"ignoreCase": true,
+										"replacement": "e5"
+									},
+									{
+										"pattern": "ē",
+										"ignoreCase": true,
+										"replacement": "e7"
+									},
+									{
+										"pattern": "ó",
+										"ignoreCase": true,
+										"replacement": "o2"
+									},
+									{
+										"pattern": "ò",
+										"ignoreCase": true,
+										"replacement": "o3"
+									},
+									{
+										"pattern": "ô",
+										"ignoreCase": true,
+										"replacement": "o5"
+									},
+									{
+										"pattern": "ō",
+										"ignoreCase": true,
+										"replacement": "o7"
+									},
+									{
+										"pattern": "ő",
+										"ignoreCase": true,
+										"replacement": "o9"
+									},
+									{
+										"pattern": "í",
+										"ignoreCase": true,
+										"replacement": "i2"
+									},
+									{
+										"pattern": "ì",
+										"ignoreCase": true,
+										"replacement": "i3"
+									},
+									{
+										"pattern": "î",
+										"ignoreCase": true,
+										"replacement": "i5"
+									},
+									{
+										"pattern": "ī",
+										"ignoreCase": true,
+										"replacement": "i7"
+									},
+									{
+										"pattern": "ú",
+										"ignoreCase": true,
+										"replacement": "u2"
+									},
+									{
+										"pattern": "ù",
+										"ignoreCase": true,
+										"replacement": "u3"
+									},
+									{
+										"pattern": "û",
+										"ignoreCase": true,
+										"replacement": "u5"
+									},
+									{
+										"pattern": "ū",
+										"ignoreCase": true,
+										"replacement": "u7"
+									},
+									{
+										"pattern": "ű",
+										"ignoreCase": true,
+										"replacement": "u9"
+									},
+									{
+										"pattern": "́",
+										"ignoreCase": true,
+										"replacement": "2"
+									},
+									{
+										"pattern": "̀",
+										"ignoreCase": true,
+										"replacement": "3"
+									},
+									{
+										"pattern": "̂",
+										"ignoreCase": true,
+										"replacement": "5"
+									},
+									{
+										"pattern": "̄",
+										"ignoreCase": true,
+										"replacement": "7"
+									},
+									{
+										"pattern": "̍",
+										"ignoreCase": true,
+										"replacement": "8"
+									},
+									{
+										"pattern": "̋",
+										"ignoreCase": true,
+										"replacement": "9"
+									},
+									{
+										"pattern": "p8",
+										"ignoreCase": true,
+										"replacement": "8p"
+									},
+									{
+										"pattern": "t8",
+										"ignoreCase": true,
+										"replacement": "8t"
+									},
+									{
+										"pattern": "k8",
+										"ignoreCase": true,
+										"replacement": "8k"
+									},
+									{
+										"pattern": "h8",
+										"ignoreCase": true,
+										"replacement": "8h"
+									},
+									{
+										"pattern": "am2",
+										"ignoreCase": true,
+										"replacement": "a2m"
+									},
+									{
+										"pattern": "am3",
+										"ignoreCase": true,
+										"replacement": "a3m"
+									},
+									{
+										"pattern": "am5",
+										"ignoreCase": true,
+										"replacement": "a5m"
+									},
+									{
+										"pattern": "am7",
+										"ignoreCase": true,
+										"replacement": "a7m"
+									},
+									{
+										"pattern": "am8",
+										"ignoreCase": true,
+										"replacement": "a8m"
+									},
+									{
+										"pattern": "am9",
+										"ignoreCase": true,
+										"replacement": "a9m"
+									},
+									{
+										"pattern": "em2",
+										"ignoreCase": true,
+										"replacement": "e2m"
+									},
+									{
+										"pattern": "em3",
+										"ignoreCase": true,
+										"replacement": "e3m"
+									},
+									{
+										"pattern": "em5",
+										"ignoreCase": true,
+										"replacement": "e5m"
+									},
+									{
+										"pattern": "em7",
+										"ignoreCase": true,
+										"replacement": "e7m"
+									},
+									{
+										"pattern": "em8",
+										"ignoreCase": true,
+										"replacement": "e8m"
+									},
+									{
+										"pattern": "em9",
+										"ignoreCase": true,
+										"replacement": "e9m"
+									},
+									{
+										"pattern": "im2",
+										"ignoreCase": true,
+										"replacement": "i2m"
+									},
+									{
+										"pattern": "im3",
+										"ignoreCase": true,
+										"replacement": "i3m"
+									},
+									{
+										"pattern": "im5",
+										"ignoreCase": true,
+										"replacement": "i5m"
+									},
+									{
+										"pattern": "im7",
+										"ignoreCase": true,
+										"replacement": "i7m"
+									},
+									{
+										"pattern": "im8",
+										"ignoreCase": true,
+										"replacement": "i8m"
+									},
+									{
+										"pattern": "im9",
+										"ignoreCase": true,
+										"replacement": "i9m"
+									},
+									{
+										"pattern": "om2",
+										"ignoreCase": true,
+										"replacement": "o2m"
+									},
+									{
+										"pattern": "om3",
+										"ignoreCase": true,
+										"replacement": "o3m"
+									},
+									{
+										"pattern": "om5",
+										"ignoreCase": true,
+										"replacement": "o5m"
+									},
+									{
+										"pattern": "om7",
+										"ignoreCase": true,
+										"replacement": "o7m"
+									},
+									{
+										"pattern": "om8",
+										"ignoreCase": true,
+										"replacement": "o8m"
+									},
+									{
+										"pattern": "om9",
+										"ignoreCase": true,
+										"replacement": "o9m"
+									},
+									{
+										"pattern": "um2",
+										"ignoreCase": true,
+										"replacement": "u2m"
+									},
+									{
+										"pattern": "um3",
+										"ignoreCase": true,
+										"replacement": "u3m"
+									},
+									{
+										"pattern": "um5",
+										"ignoreCase": true,
+										"replacement": "u5m"
+									},
+									{
+										"pattern": "um7",
+										"ignoreCase": true,
+										"replacement": "u7m"
+									},
+									{
+										"pattern": "um8",
+										"ignoreCase": true,
+										"replacement": "u8m"
+									},
+									{
+										"pattern": "um9",
+										"ignoreCase": true,
+										"replacement": "u9m"
+									},
+									{
+										"pattern": "an2",
+										"ignoreCase": true,
+										"replacement": "a2n"
+									},
+									{
+										"pattern": "an3",
+										"ignoreCase": true,
+										"replacement": "a3n"
+									},
+									{
+										"pattern": "an5",
+										"ignoreCase": true,
+										"replacement": "a5n"
+									},
+									{
+										"pattern": "an7",
+										"ignoreCase": true,
+										"replacement": "a7n"
+									},
+									{
+										"pattern": "an8",
+										"ignoreCase": true,
+										"replacement": "a8n"
+									},
+									{
+										"pattern": "an9",
+										"ignoreCase": true,
+										"replacement": "a9n"
+									},
+									{
+										"pattern": "en2",
+										"ignoreCase": true,
+										"replacement": "e2n"
+									},
+									{
+										"pattern": "en3",
+										"ignoreCase": true,
+										"replacement": "e3n"
+									},
+									{
+										"pattern": "en5",
+										"ignoreCase": true,
+										"replacement": "e5n"
+									},
+									{
+										"pattern": "en7",
+										"ignoreCase": true,
+										"replacement": "e7n"
+									},
+									{
+										"pattern": "en8",
+										"ignoreCase": true,
+										"replacement": "e8n"
+									},
+									{
+										"pattern": "en9",
+										"ignoreCase": true,
+										"replacement": "e9n"
+									},
+									{
+										"pattern": "in2",
+										"ignoreCase": true,
+										"replacement": "i2n"
+									},
+									{
+										"pattern": "in3",
+										"ignoreCase": true,
+										"replacement": "i3n"
+									},
+									{
+										"pattern": "in5",
+										"ignoreCase": true,
+										"replacement": "i5n"
+									},
+									{
+										"pattern": "in7",
+										"ignoreCase": true,
+										"replacement": "i7n"
+									},
+									{
+										"pattern": "in8",
+										"ignoreCase": true,
+										"replacement": "i8n"
+									},
+									{
+										"pattern": "in9",
+										"ignoreCase": true,
+										"replacement": "i9n"
+									},
+									{
+										"pattern": "on2",
+										"ignoreCase": true,
+										"replacement": "o2n"
+									},
+									{
+										"pattern": "on3",
+										"ignoreCase": true,
+										"replacement": "o3n"
+									},
+									{
+										"pattern": "on5",
+										"ignoreCase": true,
+										"replacement": "o5n"
+									},
+									{
+										"pattern": "on7",
+										"ignoreCase": true,
+										"replacement": "o7n"
+									},
+									{
+										"pattern": "on8",
+										"ignoreCase": true,
+										"replacement": "o8n"
+									},
+									{
+										"pattern": "on9",
+										"ignoreCase": true,
+										"replacement": "o9n"
+									},
+									{
+										"pattern": "un2",
+										"ignoreCase": true,
+										"replacement": "u2n"
+									},
+									{
+										"pattern": "un3",
+										"ignoreCase": true,
+										"replacement": "u3n"
+									},
+									{
+										"pattern": "un5",
+										"ignoreCase": true,
+										"replacement": "u5n"
+									},
+									{
+										"pattern": "un7",
+										"ignoreCase": true,
+										"replacement": "u7n"
+									},
+									{
+										"pattern": "un8",
+										"ignoreCase": true,
+										"replacement": "u8n"
+									},
+									{
+										"pattern": "un9",
+										"ignoreCase": true,
+										"replacement": "u9n"
+									},
+									{
+										"pattern": "ann2",
+										"ignoreCase": true,
+										"replacement": "a2nn"
+									},
+									{
+										"pattern": "ann3",
+										"ignoreCase": true,
+										"replacement": "a3nn"
+									},
+									{
+										"pattern": "ann5",
+										"ignoreCase": true,
+										"replacement": "a5nn"
+									},
+									{
+										"pattern": "ann7",
+										"ignoreCase": true,
+										"replacement": "a7nn"
+									},
+									{
+										"pattern": "ann8",
+										"ignoreCase": true,
+										"replacement": "a8nn"
+									},
+									{
+										"pattern": "ann9",
+										"ignoreCase": true,
+										"replacement": "a9nn"
+									},
+									{
+										"pattern": "enn2",
+										"ignoreCase": true,
+										"replacement": "e2nn"
+									},
+									{
+										"pattern": "enn3",
+										"ignoreCase": true,
+										"replacement": "e3nn"
+									},
+									{
+										"pattern": "enn5",
+										"ignoreCase": true,
+										"replacement": "e5nn"
+									},
+									{
+										"pattern": "enn7",
+										"ignoreCase": true,
+										"replacement": "e7nn"
+									},
+									{
+										"pattern": "enn8",
+										"ignoreCase": true,
+										"replacement": "e8nn"
+									},
+									{
+										"pattern": "enn9",
+										"ignoreCase": true,
+										"replacement": "e9nn"
+									},
+									{
+										"pattern": "inn2",
+										"ignoreCase": true,
+										"replacement": "i2nn"
+									},
+									{
+										"pattern": "inn3",
+										"ignoreCase": true,
+										"replacement": "i3nn"
+									},
+									{
+										"pattern": "inn5",
+										"ignoreCase": true,
+										"replacement": "i5nn"
+									},
+									{
+										"pattern": "inn7",
+										"ignoreCase": true,
+										"replacement": "i7nn"
+									},
+									{
+										"pattern": "inn8",
+										"ignoreCase": true,
+										"replacement": "i8nn"
+									},
+									{
+										"pattern": "inn9",
+										"ignoreCase": true,
+										"replacement": "i9nn"
+									},
+									{
+										"pattern": "onn2",
+										"ignoreCase": true,
+										"replacement": "o2nn"
+									},
+									{
+										"pattern": "onn3",
+										"ignoreCase": true,
+										"replacement": "o3nn"
+									},
+									{
+										"pattern": "onn5",
+										"ignoreCase": true,
+										"replacement": "o5nn"
+									},
+									{
+										"pattern": "onn7",
+										"ignoreCase": true,
+										"replacement": "o7nn"
+									},
+									{
+										"pattern": "onn8",
+										"ignoreCase": true,
+										"replacement": "o8nn"
+									},
+									{
+										"pattern": "onn9",
+										"ignoreCase": true,
+										"replacement": "o9nn"
+									},
+									{
+										"pattern": "unn2",
+										"ignoreCase": true,
+										"replacement": "u2nn"
+									},
+									{
+										"pattern": "unn3",
+										"ignoreCase": true,
+										"replacement": "u3nn"
+									},
+									{
+										"pattern": "unn5",
+										"ignoreCase": true,
+										"replacement": "u5nn"
+									},
+									{
+										"pattern": "unn7",
+										"ignoreCase": true,
+										"replacement": "u7nn"
+									},
+									{
+										"pattern": "unn8",
+										"ignoreCase": true,
+										"replacement": "u8nn"
+									},
+									{
+										"pattern": "unn9",
+										"ignoreCase": true,
+										"replacement": "u9nn"
+									},
+									{
+										"pattern": "ang2",
+										"ignoreCase": true,
+										"replacement": "a2ng"
+									},
+									{
+										"pattern": "ang3",
+										"ignoreCase": true,
+										"replacement": "a3ng"
+									},
+									{
+										"pattern": "ang5",
+										"ignoreCase": true,
+										"replacement": "a5ng"
+									},
+									{
+										"pattern": "ang7",
+										"ignoreCase": true,
+										"replacement": "a7ng"
+									},
+									{
+										"pattern": "ang8",
+										"ignoreCase": true,
+										"replacement": "a8ng"
+									},
+									{
+										"pattern": "ang9",
+										"ignoreCase": true,
+										"replacement": "a9ng"
+									},
+									{
+										"pattern": "eng2",
+										"ignoreCase": true,
+										"replacement": "e2ng"
+									},
+									{
+										"pattern": "eng3",
+										"ignoreCase": true,
+										"replacement": "e3ng"
+									},
+									{
+										"pattern": "eng5",
+										"ignoreCase": true,
+										"replacement": "e5ng"
+									},
+									{
+										"pattern": "eng7",
+										"ignoreCase": true,
+										"replacement": "e7ng"
+									},
+									{
+										"pattern": "eng8",
+										"ignoreCase": true,
+										"replacement": "e8ng"
+									},
+									{
+										"pattern": "eng9",
+										"ignoreCase": true,
+										"replacement": "e9ng"
+									},
+									{
+										"pattern": "ing2",
+										"ignoreCase": true,
+										"replacement": "i2ng"
+									},
+									{
+										"pattern": "ing3",
+										"ignoreCase": true,
+										"replacement": "i3ng"
+									},
+									{
+										"pattern": "ing5",
+										"ignoreCase": true,
+										"replacement": "i5ng"
+									},
+									{
+										"pattern": "ing7",
+										"ignoreCase": true,
+										"replacement": "i7ng"
+									},
+									{
+										"pattern": "ing8",
+										"ignoreCase": true,
+										"replacement": "i8ng"
+									},
+									{
+										"pattern": "ing9",
+										"ignoreCase": true,
+										"replacement": "i9ng"
+									},
+									{
+										"pattern": "ong2",
+										"ignoreCase": true,
+										"replacement": "o2ng"
+									},
+									{
+										"pattern": "ong3",
+										"ignoreCase": true,
+										"replacement": "o3ng"
+									},
+									{
+										"pattern": "ong5",
+										"ignoreCase": true,
+										"replacement": "o5ng"
+									},
+									{
+										"pattern": "ong7",
+										"ignoreCase": true,
+										"replacement": "o7ng"
+									},
+									{
+										"pattern": "ong8",
+										"ignoreCase": true,
+										"replacement": "o8ng"
+									},
+									{
+										"pattern": "ong9",
+										"ignoreCase": true,
+										"replacement": "o9ng"
+									},
+									{
+										"pattern": "ung2",
+										"ignoreCase": true,
+										"replacement": "u2ng"
+									},
+									{
+										"pattern": "ung3",
+										"ignoreCase": true,
+										"replacement": "u3ng"
+									},
+									{
+										"pattern": "ung5",
+										"ignoreCase": true,
+										"replacement": "u5ng"
+									},
+									{
+										"pattern": "ung7",
+										"ignoreCase": true,
+										"replacement": "u7ng"
+									},
+									{
+										"pattern": "ung8",
+										"ignoreCase": true,
+										"replacement": "u8ng"
+									},
+									{
+										"pattern": "ung9",
+										"ignoreCase": true,
+										"replacement": "u9ng"
+									},
+									{
+										"pattern": "ch",
+										"ignoreCase": true,
+										"replacement": "ts"
+									},
+									{
+										"pattern": "oa",
+										"ignoreCase": true,
+										"replacement": "ua"
+									},
+									{
+										"pattern": "oe",
+										"ignoreCase": true,
+										"replacement": "ue"
+									},
+									{
+										"pattern": "ek",
+										"ignoreCase": true,
+										"replacement": "ik"
+									},
+									{
+										"pattern": "eng",
+										"ignoreCase": true,
+										"replacement": "ing"
+									},
+									{
+										"pattern": "o2a",
+										"ignoreCase": true,
+										"replacement": "ua2"
+									},
+									{
+										"pattern": "o2e",
+										"ignoreCase": true,
+										"replacement": "ue2"
+									},
+									{
+										"pattern": "u2i",
+										"ignoreCase": true,
+										"replacement": "ui2"
+									},
+									{
+										"pattern": "e2k",
+										"ignoreCase": true,
+										"replacement": "i2k"
+									},
+									{
+										"pattern": "e2ng",
+										"ignoreCase": true,
+										"replacement": "i2ng"
+									},
+									{
+										"pattern": "o3a",
+										"ignoreCase": true,
+										"replacement": "ua3"
+									},
+									{
+										"pattern": "o3e",
+										"ignoreCase": true,
+										"replacement": "ue3"
+									},
+									{
+										"pattern": "u3i",
+										"ignoreCase": true,
+										"replacement": "ui3"
+									},
+									{
+										"pattern": "e3k",
+										"ignoreCase": true,
+										"replacement": "i3k"
+									},
+									{
+										"pattern": "e3ng",
+										"ignoreCase": true,
+										"replacement": "i3ng"
+									},
+									{
+										"pattern": "o5a",
+										"ignoreCase": true,
+										"replacement": "ua5"
+									},
+									{
+										"pattern": "o5e",
+										"ignoreCase": true,
+										"replacement": "ue5"
+									},
+									{
+										"pattern": "u5i",
+										"ignoreCase": true,
+										"replacement": "ui5"
+									},
+									{
+										"pattern": "e5k",
+										"ignoreCase": true,
+										"replacement": "i5k"
+									},
+									{
+										"pattern": "e5ng",
+										"ignoreCase": true,
+										"replacement": "i5ng"
+									},
+									{
+										"pattern": "o7a",
+										"ignoreCase": true,
+										"replacement": "ua7"
+									},
+									{
+										"pattern": "o7e",
+										"ignoreCase": true,
+										"replacement": "ue7"
+									},
+									{
+										"pattern": "u7i",
+										"ignoreCase": true,
+										"replacement": "ui7"
+									},
+									{
+										"pattern": "e7k",
+										"ignoreCase": true,
+										"replacement": "i7k"
+									},
+									{
+										"pattern": "e7ng",
+										"ignoreCase": true,
+										"replacement": "i7ng"
+									},
+									{
+										"pattern": "o8a",
+										"ignoreCase": true,
+										"replacement": "ua8"
+									},
+									{
+										"pattern": "o8e",
+										"ignoreCase": true,
+										"replacement": "ue8"
+									},
+									{
+										"pattern": "u8i",
+										"ignoreCase": true,
+										"replacement": "ui8"
+									},
+									{
+										"pattern": "e8k",
+										"ignoreCase": true,
+										"replacement": "i8k"
+									},
+									{
+										"pattern": "e8ng",
+										"ignoreCase": true,
+										"replacement": "i8ng"
+									},
+									{
+										"pattern": "o9a",
+										"ignoreCase": true,
+										"replacement": "ua9"
+									},
+									{
+										"pattern": "o9e",
+										"ignoreCase": true,
+										"replacement": "ue9"
+									},
+									{
+										"pattern": "u9i",
+										"ignoreCase": true,
+										"replacement": "ui9"
+									},
+									{
+										"pattern": "e9k",
+										"ignoreCase": true,
+										"replacement": "i9k"
+									},
+									{
+										"pattern": "e9ng",
+										"ignoreCase": true,
+										"replacement": "i9ng"
+									},
+									{
+										"pattern": "ai2",
+										"ignoreCase": true,
+										"replacement": "a2i"
+									},
+									{
+										"pattern": "au2",
+										"ignoreCase": true,
+										"replacement": "a2u"
+									},
+									{
+										"pattern": "ng2",
+										"ignoreCase": true,
+										"replacement": "n2g"
+									},
+									{
+										"pattern": "oo2",
+										"ignoreCase": true,
+										"replacement": "o2o"
+									},
+									{
+										"pattern": "ai3",
+										"ignoreCase": true,
+										"replacement": "a3i"
+									},
+									{
+										"pattern": "au3",
+										"ignoreCase": true,
+										"replacement": "a3u"
+									},
+									{
+										"pattern": "ng3",
+										"ignoreCase": true,
+										"replacement": "n3g"
+									},
+									{
+										"pattern": "oo3",
+										"ignoreCase": true,
+										"replacement": "o3o"
+									},
+									{
+										"pattern": "ai5",
+										"ignoreCase": true,
+										"replacement": "a5i"
+									},
+									{
+										"pattern": "au5",
+										"ignoreCase": true,
+										"replacement": "a5u"
+									},
+									{
+										"pattern": "ng5",
+										"ignoreCase": true,
+										"replacement": "n5g"
+									},
+									{
+										"pattern": "oo5",
+										"ignoreCase": true,
+										"replacement": "o5o"
+									},
+									{
+										"pattern": "ai7",
+										"ignoreCase": true,
+										"replacement": "a7i"
+									},
+									{
+										"pattern": "au7",
+										"ignoreCase": true,
+										"replacement": "a7u"
+									},
+									{
+										"pattern": "ng7",
+										"ignoreCase": true,
+										"replacement": "n7g"
+									},
+									{
+										"pattern": "oo7",
+										"ignoreCase": true,
+										"replacement": "o7o"
+									},
+									{
+										"pattern": "ai8",
+										"ignoreCase": true,
+										"replacement": "a8i"
+									},
+									{
+										"pattern": "au8",
+										"ignoreCase": true,
+										"replacement": "a8u"
+									},
+									{
+										"pattern": "ng8",
+										"ignoreCase": true,
+										"replacement": "n8g"
+									},
+									{
+										"pattern": "oo8",
+										"ignoreCase": true,
+										"replacement": "o8o"
+									},
+									{
+										"pattern": "ai9",
+										"ignoreCase": true,
+										"replacement": "a9i"
+									},
+									{
+										"pattern": "au9",
+										"ignoreCase": true,
+										"replacement": "a9u"
+									},
+									{
+										"pattern": "ng9",
+										"ignoreCase": true,
+										"replacement": "n9g"
+									},
+									{
+										"pattern": "oo9",
+										"ignoreCase": true,
+										"replacement": "o9o"
+									},
+									{
+										"pattern": "a2",
+										"ignoreCase": true,
+										"replacement": "á"
+									},
+									{
+										"pattern": "e2",
+										"ignoreCase": true,
+										"replacement": "é"
+									},
+									{
+										"pattern": "i2",
+										"ignoreCase": true,
+										"replacement": "í"
+									},
+									{
+										"pattern": "o2",
+										"ignoreCase": true,
+										"replacement": "ó"
+									},
+									{
+										"pattern": "u2",
+										"ignoreCase": true,
+										"replacement": "ú"
+									},
+									{
+										"pattern": "m2",
+										"ignoreCase": true,
+										"replacement": "ḿ"
+									},
+									{
+										"pattern": "n2",
+										"ignoreCase": true,
+										"replacement": "ń"
+									},
+									{
+										"pattern": "a3",
+										"ignoreCase": true,
+										"replacement": "à"
+									},
+									{
+										"pattern": "e3",
+										"ignoreCase": true,
+										"replacement": "è"
+									},
+									{
+										"pattern": "i3",
+										"ignoreCase": true,
+										"replacement": "ì"
+									},
+									{
+										"pattern": "o3",
+										"ignoreCase": true,
+										"replacement": "ò"
+									},
+									{
+										"pattern": "u3",
+										"ignoreCase": true,
+										"replacement": "ù"
+									},
+									{
+										"pattern": "n3",
+										"ignoreCase": true,
+										"replacement": "ǹ"
+									},
+									{
+										"pattern": "a5",
+										"ignoreCase": true,
+										"replacement": "â"
+									},
+									{
+										"pattern": "e5",
+										"ignoreCase": true,
+										"replacement": "ê"
+									},
+									{
+										"pattern": "i5",
+										"ignoreCase": true,
+										"replacement": "î"
+									},
+									{
+										"pattern": "o5",
+										"ignoreCase": true,
+										"replacement": "ô"
+									},
+									{
+										"pattern": "u5",
+										"ignoreCase": true,
+										"replacement": "û"
+									},
+									{
+										"pattern": "a7",
+										"ignoreCase": true,
+										"replacement": "ā"
+									},
+									{
+										"pattern": "e7",
+										"ignoreCase": true,
+										"replacement": "ē"
+									},
+									{
+										"pattern": "i7",
+										"ignoreCase": true,
+										"replacement": "ī"
+									},
+									{
+										"pattern": "o7",
+										"ignoreCase": true,
+										"replacement": "ō"
+									},
+									{
+										"pattern": "u7",
+										"ignoreCase": true,
+										"replacement": "ū"
+									},
+									{
+										"pattern": "o9",
+										"ignoreCase": true,
+										"replacement": "ő"
+									},
+									{
+										"pattern": "u9",
+										"ignoreCase": true,
+										"replacement": "ű"
+									},
+									{
+										"pattern": "1",
+										"ignoreCase": true,
+										"replacement": ""
+									},
+									{
+										"pattern": "2",
+										"ignoreCase": true,
+										"replacement": "́"
+									},
+									{
+										"pattern": "3",
+										"ignoreCase": true,
+										"replacement": "̀"
+									},
+									{
+										"pattern": "4",
+										"ignoreCase": true,
+										"replacement": ""
+									},
+									{
+										"pattern": "5",
+										"ignoreCase": true,
+										"replacement": "̂"
+									},
+									{
+										"pattern": "7",
+										"ignoreCase": true,
+										"replacement": "̄"
+									},
+									{
+										"pattern": "8",
+										"ignoreCase": true,
+										"replacement": "̍"
+									},
+									{
+										"pattern": "9",
+										"ignoreCase": true,
+										"replacement": "̋"
+									}
+								]
 							]
 						}
 					},
